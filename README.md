@@ -10,7 +10,7 @@
 
 * Grado medio en informática (2021-2023) 
 * Cursos tomados: redes, programación, bases de datos, sistemas operativos 
-* Escuela secundaria (2015-2017) 
+* Escuela secundaria 
 ## Habilidades 
 * Conocimientos avanzados en el uso de computadoras 
 * Experiencia en el uso de sistemas operativos Windows y Mac OS 
