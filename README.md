@@ -1,5 +1,6 @@
 # Alberto Moreno
-## Perfil * Estudiante de 2o año de grado medio en informática 
+## Perfil 
+* Estudiante de 2o año de grado medio en informática 
 
 * Interesado en aprender nuevas tecnologías 
 * Capaz de trabajar bajo presión y con gran sentido de responsabilidad 
